@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "marvel_app",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--dart-define=PRIVATE_KEY=f1bcd8a300c819d34ca5a380da9f15e4b3dac9f7",
+                "--dart-define=PUBLIC_KEY=7189e005b435293a87edc4eb11909406",
+                "--dart-define=API_KEY=cc1952a474bd6ba08844d7255330d469",
+                "--dart-define=GOOGLE_MAP_KEY=AIzaSyCh7fTtJgFEaJPesFkFIrWCSzI85tYTVvU",
+            ]
+        }
+    ]
+}
